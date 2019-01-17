@@ -3,10 +3,8 @@ how to run depthimage_to_lascerscan use mynteye
 
 1, sudo apt-get install ros-kinetic-depthimage-to-laserscan
 
-2, create launch file
+2, launch mynteye.launch
 
-3, launch mynteye.launch
+3, launch depth.launch
 
-4, launch depth.launch
-
-5, rviz
+4, rviz
